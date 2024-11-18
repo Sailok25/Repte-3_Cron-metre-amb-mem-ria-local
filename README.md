@@ -18,9 +18,11 @@ Per conèixer l'aparença a dissenyar seguirem la guia de la presentació anomen
 ## Imatges de referència
 <div align="center">
   <img src="imatges-crono/crono1.png" alt="Imatge 1" width="200"/>
-  <img src="imatges-crono/crono2.png" alt="Imatge 1" width="200"/>
-  <img src="imatges-crono/crono3.png" alt="Imatge 1" width="200"/>
-  <img src="imatges-crono/crono4.png" alt="Imatge 1" width="200"/>
+  <img src="imatges-crono/crono2.png" alt="Imatge 2" width="200"/>
+  <img src="imatges-crono/crono3.png" alt="Imatge 3" width="200"/>
+  <img src="imatges-crono/crono4.png" alt="Imatge 4" width="200"/>
+  <img src="imatges-crono/crono5.png" alt="Imatge 5" width="200"/>
+  <img src="imatges-crono/crono6.png" alt="Imatge 6" width="200"/>
 </div>
 
 <br>
