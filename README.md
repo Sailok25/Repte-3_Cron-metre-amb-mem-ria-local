@@ -11,7 +11,7 @@
 ## Objectiu del Repte
 Aquest repte consisteix en desenvolupar una aplicació de cronòmetre que tingui l'opció de registrar els temps de manera permanent a l'emmagatzematge local del navegador. A través de la creació d'una interfície senzilla i funcional, els usuaris podran controlar el cronòmetre i guardar els seus registres de temps de forma fàcil i accessible.
 
-Per conèixer l'aparença a dissenyar seguirem la guia de la presentació anomenada **AppCronometre.pdf**, que detalla la interfície de l'aplicació, la seva funcionalitat i el seu aspecte visual.
+Per conèixer l'aparença a dissenyar seguirem la guia de la presentació amb les imatges a continuació, que detallen la interfície de l'aplicació, la seva funcionalitat i el seu aspecte visual.
 
 <br>
 
