@@ -15,6 +15,16 @@ Per conèixer l'aparença a dissenyar seguirem la guia de la presentació anomen
 
 <br>
 
+## Imatges de referència
+<div align="center">
+  <img src="imatges-je/je1.png" alt="Imatge 1" width="200"/>
+  <img src="imatges-je/je2.png" alt="Imatge 2" width="200"/>
+  <img src="imatges-je/je3.png" alt="Imatge 3" width="200"/>
+  <img src="imatges-je/je4.png" alt="Imatge 4" width="200"/>
+</div>
+
+<br>
+
 ## Funcionalitats Principals
 - **Iniciar/Pausar/Reiniciar**: Control total sobre el cronòmetre, amb la possibilitat d'aturar-lo, pausar-lo i reiniciar-lo sense perdre el temps acumulat.
 - **Registrar Voltes**: Cada volta es registra amb el temps marcat i la comparació amb l'anterior, guardant aquesta informació de manera persistent a `localStorage`.
